@@ -138,4 +138,9 @@ h1 {
     height: auto;
     width: auto;
   }
+}
+@media (max-width: 750px) {
+  .up {
+    display: none;
+  }
 }/*# sourceMappingURL=style.css.map */
